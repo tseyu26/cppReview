@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/home/tseyu/cppReview/Ch2/Ch2_11/build",
+  "command": "/usr/bin/g++ -g -o CMakeFiles/Ch2-11.dir/main.cpp.o -c /home/tseyu/cppReview/Ch2/Ch2_11/main.cpp",
+  "file": "/home/tseyu/cppReview/Ch2/Ch2_11/main.cpp",
+  "output": "CMakeFiles/Ch2-11.dir/main.cpp.o"
+},
+{
+  "directory": "/home/tseyu/cppReview/Ch2/Ch2_11/build",
+  "command": "/usr/bin/g++ -g -o CMakeFiles/Ch2-11.dir/add.cpp.o -c /home/tseyu/cppReview/Ch2/Ch2_11/add.cpp",
+  "file": "/home/tseyu/cppReview/Ch2/Ch2_11/add.cpp",
+  "output": "CMakeFiles/Ch2-11.dir/add.cpp.o"
+}
+]
