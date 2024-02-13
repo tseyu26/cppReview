@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/tseyu/cppReview/Ch5/Ch5_5/build",
+  "command": "/usr/bin/g++ -g -o CMakeFiles/Ch5_5.dir/main.cpp.o -c /home/tseyu/cppReview/Ch5/Ch5_5/main.cpp",
+  "file": "/home/tseyu/cppReview/Ch5/Ch5_5/main.cpp",
+  "output": "CMakeFiles/Ch5_5.dir/main.cpp.o"
+}
+]
