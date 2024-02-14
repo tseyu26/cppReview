@@ -1,0 +1,5 @@
+/home/tseyu/cppReview/Ch5/Ch5_8/build/CMakeFiles/Ch5_8.dir
+/home/tseyu/cppReview/Ch5/Ch5_8/build/CMakeFiles/package.dir
+/home/tseyu/cppReview/Ch5/Ch5_8/build/CMakeFiles/package_source.dir
+/home/tseyu/cppReview/Ch5/Ch5_8/build/CMakeFiles/edit_cache.dir
+/home/tseyu/cppReview/Ch5/Ch5_8/build/CMakeFiles/rebuild_cache.dir
