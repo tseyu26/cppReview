@@ -10,7 +10,7 @@ int main()
     std::cout << "Now enter your name: ";
     std::string name{};
     std::getline(std::cin >> std::ws, name); // note: added std::ws here
-
+    std::cout << name << " has " << std::ssize(name) << " characters\n";
     std::cout << "Hello, " << name << ", you picked " << choice << '\n';
 
     return 0;
