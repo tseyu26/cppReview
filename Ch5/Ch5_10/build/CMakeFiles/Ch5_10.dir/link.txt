@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/Ch5_10.dir/main.cpp.o -o Ch5_10 
