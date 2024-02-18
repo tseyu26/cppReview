@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/tseyu/cppReview/ChO/ChO_4/build",
+  "command": "/usr/bin/c++ -g -o CMakeFiles/ChO_4.dir/main.cpp.o -c /home/tseyu/cppReview/ChO/ChO_4/main.cpp",
+  "file": "/home/tseyu/cppReview/ChO/ChO_4/main.cpp",
+  "output": "CMakeFiles/ChO_4.dir/main.cpp.o"
+}
+]
