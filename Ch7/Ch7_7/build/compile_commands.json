@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/home/tseyu/cppReview/Ch7/Ch7_7/build",
+  "command": "/usr/bin/c++ -g -std=gnu++23 -o CMakeFiles/Ch7_7.dir/main.cpp.o -c /home/tseyu/cppReview/Ch7/Ch7_7/main.cpp",
+  "file": "/home/tseyu/cppReview/Ch7/Ch7_7/main.cpp",
+  "output": "CMakeFiles/Ch7_7.dir/main.cpp.o"
+},
+{
+  "directory": "/home/tseyu/cppReview/Ch7/Ch7_7/build",
+  "command": "/usr/bin/c++ -g -std=gnu++23 -o CMakeFiles/Ch7_7.dir/a.cpp.o -c /home/tseyu/cppReview/Ch7/Ch7_7/a.cpp",
+  "file": "/home/tseyu/cppReview/Ch7/Ch7_7/a.cpp",
+  "output": "CMakeFiles/Ch7_7.dir/a.cpp.o"
+}
+]
