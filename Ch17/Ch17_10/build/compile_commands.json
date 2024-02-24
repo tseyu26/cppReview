@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/tseyusp6/cppReview/Ch17/Ch17_10/build",
+  "command": "/usr/bin/clang++-17   -g -std=gnu++23 -o CMakeFiles/Ch17_10.dir/main.cpp.o -c /home/tseyusp6/cppReview/Ch17/Ch17_10/main.cpp",
+  "file": "/home/tseyusp6/cppReview/Ch17/Ch17_10/main.cpp",
+  "output": "CMakeFiles/Ch17_10.dir/main.cpp.o"
+}
+]
