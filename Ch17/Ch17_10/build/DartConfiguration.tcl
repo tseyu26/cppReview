@@ -4,17 +4,17 @@
 
 
 # Configuration directories and files
-SourceDirectory: /home/tseyusp6/cppReview/Ch17/Ch17_10
-BuildDirectory: /home/tseyusp6/cppReview/Ch17/Ch17_10/build
+SourceDirectory: /home/tseyu/cppReview/Ch17/Ch17_10
+BuildDirectory: /home/tseyu/cppReview/Ch17/Ch17_10/build
 
 # Where to place the cost data store
 CostDataFile: 
 
 # Site is something like machine.domain, i.e. pragmatic.crd
-Site: SP6
+Site: tseyu
 
 # Build name is osname-revision-compiler, i.e. Linux-2.4.2-2smp-c++
-BuildName: Linux-clang++-17
+BuildName: Linux-c++
 
 # Subprojects
 LabelsForSubprojects: 
@@ -27,8 +27,8 @@ SubmitInactivityTimeout:
 NightlyStartTime: 00:00:00 EDT
 
 # Commands for the build/test/submit cycle
-ConfigureCommand: "/usr/local/bin/cmake" "/home/tseyusp6/cppReview/Ch17/Ch17_10"
-MakeCommand: /usr/local/bin/cmake --build . --config "${CTEST_CONFIGURATION_TYPE}" -- -i
+ConfigureCommand: "/usr/local/bin/cmake" "/home/tseyu/cppReview/Ch17/Ch17_10"
+MakeCommand: /usr/local/bin/cmake --build . --config "${CTEST_CONFIGURATION_TYPE}"
 DefaultCTestConfigurationType: Release
 
 # version control
@@ -63,8 +63,8 @@ UpdateOptions:
 UpdateType: 
 
 # Compiler info
-Compiler: /usr/bin/clang++-17
-CompilerVersion: 17.0.6
+Compiler: /usr/bin/c++
+CompilerVersion: 11.4.0
 
 # Dynamic analysis (MemCheck)
 PurifyCommand: 
