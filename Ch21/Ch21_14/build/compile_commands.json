@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/tseyu/cppReview/Ch21/Ch21_14/build",
+  "command": "/usr/bin/c++ -g -std=gnu++23 -o CMakeFiles/Ch21_14.dir/main.cpp.o -c /home/tseyu/cppReview/Ch21/Ch21_14/main.cpp",
+  "file": "/home/tseyu/cppReview/Ch21/Ch21_14/main.cpp",
+  "output": "CMakeFiles/Ch21_14.dir/main.cpp.o"
+}
+]
